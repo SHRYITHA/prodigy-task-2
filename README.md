@@ -1,1 +1,1 @@
-https://github.com/SHRYITHA/prodigy-task-2
+https://github.com/SHRYITHA/PRODIGY_WD_02
